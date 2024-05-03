@@ -25,7 +25,7 @@
               aria-haspopup="true"
             >
               <i class="fas fa-bars"></i>
-              <!-- Use Font Awesome icon classes -->
+
             </button>
 
             <div
